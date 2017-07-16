@@ -1,0 +1,56 @@
+/* TODO Dan - Don't forget to review these concepts: float, padding, margin, display, 
+    overflow, clear and text-align. */
+
+body {
+  background: #777;
+  width: 960px;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+
+}
+
+header {
+  margin: 0px;
+
+}
+nav {
+  margin: 0px;
+
+}
+
+footer {
+  margin: 0px;
+
+}
+
+section {
+  width: 495px;
+}
+
+aside {
+  margin: 0px;
+
+}
+
+article {
+  margin: 0px;
+
+}
+
+.clear {
+  margin: 0px;
+
+}
+
+#container {
+  background: #ebebeb; /* May need to change this to reflect the `content` */
+}
